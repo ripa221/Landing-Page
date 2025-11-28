@@ -27,13 +27,13 @@
     background-image: url('images/43003.jpg');
     background-repeat: none;
     background-size: cover;
-    height: 85vh;
+    height: 100vh;
     margin: 0;
 
 }
 
 .hero-text{
-    padding: 265px;
+    padding: 275px;
      
 }
 
