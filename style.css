@@ -24,7 +24,7 @@
     
     padding: 80px 20px;
     text-align: center;
-    background-image: url('/images/background.jpg');
+    background-image: url('images/background.jpg');
     background-repeat: none;
     background-size: cover;
     height: 50vh;
