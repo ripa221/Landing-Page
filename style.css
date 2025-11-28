@@ -24,16 +24,16 @@
     
     padding: 80px 20px;
     text-align: center;
-    background-image: url('images/43003.jpg');
+    background-image: url('images/bg.gif');
     background-repeat: none;
     background-size: cover;
-    height: 100vh;
+    height: 80vh;
     margin: 0;
 
 }
 
 .hero-text{
-    padding: 275px;
+    padding: 100px;
      
 }
 
